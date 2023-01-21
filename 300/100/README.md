@@ -15,6 +15,7 @@ Attached: [Envisalink4QuickStart.pdf](https://github.com/vanHeemstraSystems/adem
 ## 200 - ESP Account For Website & Mobile Access
 
 See also "Envisalink 4 Installation & Account Setup" at https://www.home-security-systems-answers.com/envisalink-4.html
+See also "EyezOn EVL-4EZR Operation" at https://www.home-security-systems-answers.com/eyezon.html
 
 1. Visit https://www.eyezon.com from any web-enabled device.
 2. If you do not have an account proceed to this link https://www.eyezon.com/EZMAIN/createaccount.php and follow the instructions. You will receive a confirmation e-mail with log-in credentials.
@@ -36,6 +37,7 @@ Make note of the password as received through e-mail on above account.
 ## 300 - To Connect the Module to the Control Panel
 
 See also "Envisalink 4 Installation & Account Setup" at https://www.home-security-systems-answers.com/envisalink-4.html
+See also "EyezOn EVL-4EZR Operation" at https://www.home-security-systems-answers.com/eyezon.html
 
 1. Disconnect the power from the Honeywell (now Ademco) Control Panel of the Alarm System.
 2. 

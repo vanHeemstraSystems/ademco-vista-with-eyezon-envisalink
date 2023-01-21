@@ -28,8 +28,9 @@ Make note of the password as received through e-mail on above account.
 7. On the form enter the EnvisaLink System Device MAC ID: **001C2A003303E**
 8. On the form enter the EnvisaLink System Device Name: **Zanger 4**
 9. Submit the form by clicking "Add System". You will see confirmation that the new system has been added to your account.
-10. Log-out. Wait 10 minutes. Log back in and your device will be activated.
+10. Your device will show in your [account page](https://portal.eyezon.com/app/index.php?page=system-details&param=B5zBQcMvT0w0qOTgRylR6gv3K8N13ZJRO+3EmI53hoh4LY9jj4WogM5Jq+vIV0BjFIC9vJeZPUHXU/4qbUnzzg==&k=), whereas its status may still be **Offline** as we haven't connected it to the WiFi router yet.
 
 ## 300 - To Connect the Module to the Control Panel
+
 
 More ...

@@ -43,5 +43,10 @@ See also "EyezOn EVL-4EZR Operation" at https://www.home-security-systems-answer
 2. 
 
 
+More ...
+
+## 400 - Panel Programming
+
+See also "EyezOn EnvisaLink Honewell Installation Guide 2018" at https://www.eyez-on.com/EZMAIN/EyezonEnvisalinkHoneywellInstallationGuide2018.pdf
 
 More ...

@@ -21,5 +21,15 @@ Registered with email-account / username / account login id: **wvanheemstra@iclo
 
 Make note of the password as received through e-mail on above account.
 
-4. Log-in to your account (using above account login id and received password) at  .
-5. 
+3. Log-in to your account (using above account login id and received password) at https://portal.eyezon.com/app/login.php.
+4. Click the "Add System" link on the page. 
+5. Choose "EnvisaLink Card" as the System.
+6. On the form enter the EnvisaLink System Device Type: **EnvisaLink 4 Honeywell**
+7. On the form enter the EnvisaLink System Device MAC ID: **001C2A003303E**
+8. On the form enter the EnvisaLink System Device Name: **Zanger 4**
+9. Submit the form by clicking "Add System". You will see confirmation that the new system has been added to your account.
+10. Log-out. Wait 10 minutes. Log back in and your device will be activated.
+
+## 300 - To Connect the Module to the Control Panel
+
+More ...

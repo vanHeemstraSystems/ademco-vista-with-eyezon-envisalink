@@ -29,6 +29,7 @@ Make note of the password as received through e-mail on above account.
 8. On the form enter the EnvisaLink System Device Name: **Zanger 4**
 9. Submit the form by clicking "Add System". You will see confirmation that the new system has been added to your account.
 10. Your device will show in your [account page](https://portal.eyezon.com/app/index.php?page=system-details&param=B5zBQcMvT0w0qOTgRylR6gv3K8N13ZJRO+3EmI53hoh4LY9jj4WogM5Jq+vIV0BjFIC9vJeZPUHXU/4qbUnzzg==&k=), whereas its status may still be **Offline** as we haven't connected it to the WiFi router yet.
+11. You should now be able to see the same account details when logged in to your accompanying EyezOn App (for iOS and Android).
 
 ## 300 - To Connect the Module to the Control Panel
 

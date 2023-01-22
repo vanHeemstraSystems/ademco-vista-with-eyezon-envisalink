@@ -165,5 +165,72 @@ If your Honeywell Panel connects to a Central Station Monitoring via an ECP Conn
 
 NOTE: To disable IP/GSM/LRR Shadowing, uncheck the box and click Modify.
 
+### Honeywell Vista Panel Programming Options
+
+Programming required may vary depending on the model type of your Honeywell Vista Panel. When programming it is recommended that you have the Honeywell Vista Programming Manual accessible for reference purposes. 
+
+For single communicator setup (i.e. no dial up and your EnvisaLink4 is the only communicator), we recommend the programming outlined below. If you are using multiple communication methods, other options may be required and you will need to refer to your Honeywell Vista Programming Manual. 
+
+**IMPORTANT**: If you have a Vista21iP panel you MUST disable the on-board Ethernet controller by moving the on-board jumper beside the RJ-45 jack to the lower position. The lower position is the OFF position. But our current panel is a version older than Vista21iP (Vista 20P) so this does **not** apply to our current system.
+
+**Honeywell Vista 10P, 15P, 20P & 21iP**
+
+1. Enter (Installer Code) + 800 to access installer programming mode. “20” should appear on the display. If you 
+do not know the Installer Code, see Troubleshooting Tips on page 13.
+
+2. Keypad programming: *190 to *196 (addresses 17-23) are the keypad programming sections. Enable the 
+assigned Envisalink4 addresses as needed. If it is a single partition system using the default Envisalink4
+address of 18, the programming section is *191. In section *191 enter 10. If the keypad was on Partition 2, 
+you would enter 20.
+
+3. *29 Enable IP/GSM (IP/GSM/LRR support required for your Envisalink4 to transmit alerts): The codes to 
+enter in the section depend on the age of the panel. Start by entering 1, If you hear 3 beeps proceed to #4; if 
+not continue with *0**. 
+
+4. *48 Report Format: Enter 77 (this is pre-set and cannot be changed on ADT Panels).
+
+5. *49 Split/Dual Reporting: Enter 5 and you will hear 3 beeps.
+
+6. *50 Burglary Dialer Delay: Enter 0 and you will hear 3 beeps.
+
+7. *54 Dynamic Signalling Delay: Set to 0 and you will hear 3 beeps.
+ 
+8. *55 Dynamic Signalling Priority: Set to 1 and you will hear 3 beeps.
+ 
+9. *59 Exit Error Alarm Report Code: Set to 0 and you will hear 3 beeps.
+
+10. *60 Trouble Report Code: Enter 10 and you will hear 3 beeps.
+ 
+11. *62 AC Loss Report Code: Enter 10 and you will hear 3 beeps.
+ 
+12. *63 Low Battery Report Code: Enter 10 and you will hear 3 beeps. 
+ 
+13. *64 Test Report Code: Enter 10 and you will hear 3 beeps.
+ 
+14. *65 Open Report Code: Enter 110 and you will hear 3 beeps.
+ 
+15. *66 Arm Away/Stay Report Code: Enter 111100 and you will hear 3 beeps.
+
+16. *67 RF Transmitter Low Battery Report Code: Enter 10 and you will hear 3 beeps.
+IMPORTANT: If you have a Vista21iP panel you MUST disable the on-board Ethernet controller by moving the 
+on-board jumper beside the RJ-45 jack to the lower position. The lower position is the OFF position.
+ EyezOn Corporation 14845-6 Yonge St, Suite 310 Aurora, ON Canada L4G 6H8 T: (+1) 647-503-3400 www.eyezon.com Page 10
+
+17. *70 Alarm Restore Report Code: Enter 1 and you will hear 3 beeps.
+
+18. *71 Trouble Resolve Report Code: Enter 10 and you will hear 3 beeps.
+
+19. *73 AC Restore Report Code: Enter 10 and you will hear 3 beeps.
+ 
+20. *74 Low Battery Restore Report Code: Enter 10 and you will hear 3 beeps.
+ 
+21. *75 RF Low Battery Restore Report Code: Enter 10 and you will hear 3 beeps.
+ 
+22. *84 Auto Stay Arm: Enter 0 and you will hear 3 beeps.
+
+23. Enter *99 to exit programming.
+
+
+
 
 More ...

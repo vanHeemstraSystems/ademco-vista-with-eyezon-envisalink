@@ -111,7 +111,7 @@ Accessing EnvisaLink 4 Locally. Now that your Envisalink4 is connected to your H
 http://192.168.68.112
 ```
 
-EnvistaLink 4 Local Web Interface (Note: some browser setting will not allow access to a website with unsecure http).
+EnvistaLink 4 Local Web Interface (Note: some browser settings will not allow access to a website with unsecure http, try opening the web interface from your smart phone in that case if it is connected to the same network).
 
 2. Once entered, a login pop-up should appear. Enter ```user``` in both the User Name and Password fields and click Log In.
 

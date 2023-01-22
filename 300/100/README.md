@@ -103,4 +103,16 @@ See also "EyezOn EnvisaLink Honewell Installation Guide 2018" at https://www.eye
 
 Attached: [EyezonEnvisalinkHoneywellInstallationGuide2018.pdf](https://github.com/vanHeemstraSystems/ademco-vista-with-eyezon-envisalink/files/10474565/EyezonEnvisalinkHoneywellInstallationGuide2018.pdf)
 
+Accessing EnvisaLink 4 Locally. Now that your Envisalink4 is connected to your Honeywell Panel and functioning, you may have to access the EnvisaLink 4 locally in order to program your EnvisaLink 4. The Envisa Link 4’s local web interface also allows you to view status and perform troubleshooting. For more information on accessing your Envisalink4 locally, please refer to the Accessing Envisalink4 for Status, Programming and Troubleshooting Application Note.
+
+1. To access the EnvisaLink 4 web interface, type the EnvisaLink 4 IP address into any browser on the same internal network as your Envisalink4. For help on obtaining your Envisalink4’s IP address please refer to the Accessing Envisalink4 for Status, Programming and Troubleshooting Application Note.
+
+```
+http://192.168.68.112
+```
+
+EnvistaLink 4 Local Web Interface (Note: some browser setting will not allow access to a website with unsecure http).
+
+
+
 More ...

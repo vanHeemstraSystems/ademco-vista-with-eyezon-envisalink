@@ -60,6 +60,20 @@ Honeywell / Ademco Vista Main Panel
 
 For Honeywell / Ademco systems, you’ll have to program the panel to enroll the EnvistaLink 4 (EVL). Follow the latest instructions in the the next section.
 
+For this reason at this stage of the installation you may see the following warning on your EyezON dashboard:
+
+General Status **On-line**
+
+```Error: Keypad Address Programming Not Completed.```
+```Error: *29 Programming on panel not completed properly.```
+
+Type:**EVL4 HW**
+MAC:**001C2A03303E**
+Version:**202**
+Local IP:**192.168.68.112**
+WAN IP:**217.103.138.72**
+Last Update:** **
+
 ## 400 - Panel Programming
 
 See also "EyezOn EnvisaLink Honewell Installation Guide 2018" at https://www.eyez-on.com/EZMAIN/EyezonEnvisalinkHoneywellInstallationGuide2018.pdf

@@ -121,5 +121,7 @@ Once you have logged into the web interface, the local EnvisaLink 4 homepage wil
 
 EnvistaLink Home Page (may differ from your home page)
 
+### Envisalink4 Programming Options: Assign/Modify Keypad Addresses & Enable Shadowing
+
 
 More ...

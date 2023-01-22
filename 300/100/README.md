@@ -176,7 +176,7 @@ For single communicator setup (i.e. no dial up and your EnvisaLink4 is the only 
 **Honeywell Vista 10P, 15P, 20P & 21iP**
 
 1. Enter (Installer Code) + 800 to access installer programming mode. “20” should appear on the display. If you 
-do not know the Installer Code, see Troubleshooting Tips on page 13.
+do not know the Installer Code, see Troubleshooting Tips at the next section (500).
 
 2. Keypad programming: *190 to *196 (addresses 17-23) are the keypad programming sections. Enable the 
 assigned Envisalink4 addresses as needed. If it is a single partition system using the default Envisalink4
@@ -230,7 +230,31 @@ on-board jumper beside the RJ-45 jack to the lower position. The lower position 
 
 23. Enter *99 to exit programming.
 
+## 500 - Programming Troubleshooting Tips 
 
+Do Not Know Installer Code
 
+Step 1: Shut down the system.
+
+1. Shut down transformer.
+
+2. Shut down battery.
+
+3. Leave system off for 60 seconds
+
+Step 2: Bring the system back up.
+
+1. Repower the battery.
+
+2. Repower the transformer.
+
+Step 3: Force system to programming mode and retrieve existing installer code.
+
+1. With 30 seconds, push and hold the * and # keys together on a keypad.
+
+2. Hold for 2 seconds and the 20 should appear on the display which indicated you are in programming mode. If 
+20 does not appear the panel is locked and you must contact the installer for the code
+
+3. Enter #20 and the display will show the existing installed for digit code, one digit at a time.
 
 More ...

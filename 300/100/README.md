@@ -151,5 +151,19 @@ and 23).
 
 5. Repeat for each keypad in your system.
 
+Step 2: Modify address 18 (as required) = NOT APPLICABLE TO OUR SYSTEM
+
+Step 3: Enable IP/GSM/IR Shadowing (as required)
+
+If your Honeywell Panel connects to a Central Station Monitoring via an ECP Connected Honeywell GSM/IP Communicator, the Shadowing Option must also be enabled.
+
+**Note**: This applies mto our system as we have a Central Station Monitoring.
+
+1. Check the box beside Enable IP/GSM/LRR Shadowing.
+
+2. Click Modify
+
+NOTE: To disable IP/GSM/LRR Shadowing, uncheck the box and click Modify.
+
 
 More ...

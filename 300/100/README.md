@@ -84,4 +84,6 @@ Last Update:** **
 
 See also "EyezOn EnvisaLink Honewell Installation Guide 2018" at https://www.eyez-on.com/EZMAIN/EyezonEnvisalinkHoneywellInstallationGuide2018.pdf
 
+Attached: [EyezonEnvisalinkHoneywellInstallationGuide2018.pdf](https://github.com/vanHeemstraSystems/ademco-vista-with-eyezon-envisalink/files/10474565/EyezonEnvisalinkHoneywellInstallationGuide2018.pdf)
+
 More ...

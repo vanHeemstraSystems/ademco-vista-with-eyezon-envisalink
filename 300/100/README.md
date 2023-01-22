@@ -113,6 +113,6 @@ http://192.168.68.112
 
 EnvistaLink 4 Local Web Interface (Note: some browser setting will not allow access to a website with unsecure http).
 
-
+2. Once entered, a login pop-up should appear. Enter ```user``` in both the User Name and Password fields and click Log In.
 
 More ...

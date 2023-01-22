@@ -117,8 +117,7 @@ EnvistaLink 4 Local Web Interface (Note: some browser setting will not allow acc
 
 Once you have logged into the web interface, the local EnvisaLink 4 homepage will appear as seen below. This page allows you to assign and/or modify keypad addresses for each partition used on the system; as well as enable IP shadowing if the system has a Honeywell ECP IP/GSM or LRR already installed. 
 
-
-
+![EnvistaLink_4_Home_Page](https://user-images.githubusercontent.com/1499433/213921580-b34d9519-d113-48d4-9079-1d853bf93847.jpg)
 
 EnvistaLink Home Page (may differ from your home page)
 

@@ -123,5 +123,11 @@ EnvistaLink Home Page (may differ from your home page)
 
 ### Envisalink4 Programming Options: Assign/Modify Keypad Addresses & Enable Shadowing
 
+Honeywell Vista Panels require that each connected keypad has a unique address between 16 and 23. On all Honeywell systems, the first keypad uses the address “16” and is therefore reserved. The EnvisaLink4 emulates a keypad on the system and by default uses the address “18”. By default all other partitions are disabled with address 
+“00”.
+
+
+
+
 
 More ...

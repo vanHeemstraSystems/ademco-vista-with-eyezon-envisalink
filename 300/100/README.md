@@ -123,9 +123,22 @@ EnvistaLink Home Page (may differ from your home page)
 
 ### Envisalink4 Programming Options: Assign/Modify Keypad Addresses & Enable Shadowing
 
-Honeywell Vista Panels require that each connected keypad has a unique address between 16 and 23. On all Honeywell systems, the first keypad uses the address “16” and is therefore reserved. The EnvisaLink4 emulates a keypad on the system and by default uses the address “18”. By default all other partitions are disabled with address 
+Honeywell Vista Panels require that each connected keypad has a unique address between 16 and 23. On all Honeywell systems, the first keypad uses the address “16” and is therefore reserved. The EnvisaLink 4 emulates a keypad on the system and by default uses the address “18”. By default all other partitions are disabled with address 
 “00”.
 
+The degree to which you need to assign and/or modify addresses depends on the number of partitions, communicators (e.g. a GSM backup), and keypads on your system. 
+
+Generally, **if you only have one partition, no additional communicators, and less then three keypads, no modification to the default EnvisaLink 4 address settings is required.** 
+
+In this scenario keypad 1 and 2 would typically have the addresses 16 and 17, and the EnvisaLink 4 would be addressed as “18”. 
+
+However, you should verify that the keypads indeed are using addresses 16 and 17 by following the instructions in Step 1 and Step 2 below. 
+
+If you have an additional c IP, GSM, or Long Range Radio (LRR) communicator already installed, you need to enable IP/GSM/LRR shadowing as outlined in Step 3 below.
+
+For systems, with more than one partition and more than two keypads, additional address assignment is required. 
+
+In order to assign keypad addresses correctly via the local web interface, you need to know how many existing keypads are on your system and what addresses they are using. Any duplication will cause issues when arming and disarming via the portal. To do this, follow the steps below:
 
 
 

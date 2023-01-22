@@ -54,9 +54,11 @@ EnvistaLink 4 Board
 
 Honeywell / Ademco Vista Main Panel
 
-5. 
+5. Connect a data patch cord from the RJ-45 connector on the EnvistaLink 4 (EVL) module to an open port on your home network router or switch.
 
-More ...
+6. Restore AC and battery power to the system.
+
+For Honeywell / Ademco systems, you’ll have to program the panel to enroll the EnvistaLink 4 (EVL). Follow the latest instructions in the the next section.
 
 ## 400 - Panel Programming
 

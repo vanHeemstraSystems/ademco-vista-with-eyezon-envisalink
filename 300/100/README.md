@@ -140,7 +140,16 @@ For systems, with more than one partition and more than two keypads, additional 
 
 In order to assign keypad addresses correctly via the local web interface, you need to know how many existing keypads are on your system and what addresses they are using. Any duplication will cause issues when arming and disarming via the portal. To do this, follow the steps below:
 
+Step 1: Identify which keypad addresses are already in use.
 
+1. Go to the keypad and simultaneously press 1 and 3.
+
+2. Hold for two seconds. The keypad address should appear on the keypad display (i.e., a number between 16 
+and 23).
+
+3. Record the address.
+
+5. Repeat for each keypad in your system.
 
 
 More ...

@@ -50,7 +50,9 @@ EnvistaLink 4 Board
 
 4. Attach the conneting cables of the opposite end of the cable to the Ports of the Honeywell/Ademco Vista main panel. The ports to connect to are Port 4 - Black, Port 5 - Red, Port 6 - Green, Port 7 - Yellow, colors should match the colors of the connecting cables. These are the same terminals used for keypad connections. Be careful not to dislodge any of the existing data wiring.
 
+![xenvisalink-4-230](https://user-images.githubusercontent.com/1499433/213919012-138527ed-0e05-4a9e-b378-154ef7e3d8ab.png)
 
+Honeywell / Ademco Vista Main Panel
 
 5. 
 

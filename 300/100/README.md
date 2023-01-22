@@ -65,13 +65,19 @@ For this reason at this stage of the installation you may see the following warn
 General Status **On-line**
 
 ```Error: Keypad Address Programming Not Completed.```
+
 ```Error: *29 Programming on panel not completed properly.```
 
 Type:**EVL4 HW**
+
 MAC:**001C2A03303E**
+
 Version:**202**
+
 Local IP:**192.168.68.112**
+
 WAN IP:**217.103.138.72**
+
 Last Update:** **
 
 ## 400 - Panel Programming

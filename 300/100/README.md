@@ -40,12 +40,19 @@ See also "Envisalink 4 Installation & Account Setup" at https://www.home-securit
 See also "EyezOn EVL-4EZR Operation" at https://www.home-security-systems-answers.com/eyezon.html
 
 1. Disconnect the power from the Honeywell (now Ademco) Control Panel of the Alarm System by powering-down the main panel by disconnecting one battery lead and unplugging the low-voltage transformer. If the low-voltage transformer is not in reach, instead disconnect one of the two power leads from the main panel (Port Nr 1 or Port Nr 2). The system is now no longer powered and it is safe to continue.
-2. Connect one end of the supplied 4-conductor cable to the four screw terminals on the EVL module. In case of the Honeywell/Ademco Vista main panel these are Port 4 - Black, Port 5 - Red, Port 6 - Green, Port 7 - Yellow, colors should match the colors of the connecting cables. 
+2. Connect one end of the supplied 4-conductor cable to the four screw terminals on the EnvistaLink 4 (EVL) module. 
 
 ![xenvisalink-4-210](https://user-images.githubusercontent.com/1499433/213917359-beb0353a-a7b7-483e-80f9-9dcc39e40098.png)
 
 EnvistaLink 4 Board
 
+3. Install the EnvistaLink 4 (EVL) in the main panel enclosure. Use the double-sided tape to attach the EnvistaLink 4 board to the interior of the metal housing cabinet.
+
+4. Attach the conneting cables of the opposite end of the cable to the Ports of the Honeywell/Ademco Vista main panel. The ports to connect to are Port 4 - Black, Port 5 - Red, Port 6 - Green, Port 7 - Yellow, colors should match the colors of the connecting cables. These are the same terminals used for keypad connections. Be careful not to dislodge any of the existing data wiring.
+
+
+
+5. 
 
 More ...
 

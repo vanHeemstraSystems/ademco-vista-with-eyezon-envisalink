@@ -61,6 +61,10 @@ Honeywell / Ademco Vista Main Panel
 There are a number of LED lights located on your EnvisaLink 4 module. If installation and activation of the module was done correctly, you will see five solid green LEDs with the LINK LED being flashing occasionally to indicate network traffic. The KEYB LED may be off during the first 10 minutes after installation while the module 
 downloads Honeywell firmware. Wait 10 minutes before troubleshooting. 
 
+![EnvistaLink_4_LEDS](https://user-images.githubusercontent.com/1499433/213920610-d05e5a40-d4db-45a4-93a4-65a7bfe8e9ce.jpg)
+
+EnvistaLink 4 LEDs
+
 | LED Name | Description | 
 | - | - |
 | **OPER** | **SOLID GREEN** - Power and functioning. <br> **OFF** – Not functioning and not powered properly. |

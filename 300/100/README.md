@@ -58,6 +58,17 @@ Honeywell / Ademco Vista Main Panel
 
 6. Restore AC and battery power to the system.
 
+There are a number of LED lights located on your EnvisaLink 4 module. If installation and activation of the module was done correctly, you will see five solid green LEDs with the LINK LED being flashing occasionally to indicate network traffic. The KEYB LED may be off during the first 10 minutes after installation while the module 
+downloads Honeywell firmware. Wait 10 minutes before troubleshooting. 
+
+| LED Name | Description | 
+| - | - |
+| **OPER** | **SOLID GREEN** - Power and functioning. <br> **OFF** – Not functioning and not powered properly. |
+| **KEYB** | **SOLID GREEN** – Panel connected correctly. <br> **FLASHING** - Panel not connected (DSC firmware installed). <br> **OFF** – Panel not connected (Honeywell firmware installed). |
+| **NET** | **SOLID GREEN** – IP obtained through DHCP server (router). <br> **FLASHING** – Module programmed to static IP. <br> **OFF** – Module cannot obtain IP form DHCP server (router) |
+| **ONLINE** | **SOLID GREEN** – Module is communicating with servers and account is properly set up. <br> **FLASHING** – Module is communicating with servers but no account exists. <br> **OFF** – Module is not communicating with servers |
+| **LINK** | **SOLID GREEN** – Ethernet link established. Will flick with RX/TX. <br> **OFF** - No Ethernet link. |
+
 For Honeywell / Ademco systems, you’ll have to program the panel to enroll the EnvistaLink 4 (EVL). Follow the latest instructions in the the next section.
 
 For this reason at this stage of the installation you may see the following warning on your [EyezON dashboard](https://portal.eyezon.com/app/index.php):

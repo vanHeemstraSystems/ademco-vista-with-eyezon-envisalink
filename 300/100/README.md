@@ -60,7 +60,7 @@ Honeywell / Ademco Vista Main Panel
 
 For Honeywell / Ademco systems, you’ll have to program the panel to enroll the EnvistaLink 4 (EVL). Follow the latest instructions in the the next section.
 
-For this reason at this stage of the installation you may see the following warning on your EyezON dashboard:
+For this reason at this stage of the installation you may see the following warning on your [EyezON dashboard](https://portal.eyezon.com/app/index.php):
 
 General Status **On-line**
 

@@ -73,6 +73,8 @@ EnvistaLink 4 LEDs
 | **ONLINE** | **SOLID GREEN** – Module is communicating with servers and account is properly set up. <br> **FLASHING** – Module is communicating with servers but no account exists. <br> **OFF** – Module is not communicating with servers |
 | **LINK** | **SOLID GREEN** – Ethernet link established. Will flick with RX/TX. <br> **OFF** - No Ethernet link. |
 
+**NOTE**: At this stage of the installation all LEDs should show **SOLID GREEN**, where as the **LINK** will **flick** with RX/TX, i.e. data transferring.
+
 For Honeywell / Ademco systems, you’ll have to program the panel to enroll the EnvistaLink 4 (EVL). Follow the latest instructions in the the next section.
 
 For this reason at this stage of the installation you may see the following warning on your [EyezON dashboard](https://portal.eyezon.com/app/index.php):

@@ -185,7 +185,7 @@ you would enter 20.
 
 3. *29 Enable IP/GSM (IP/GSM/LRR support required for your Envisalink4 to transmit alerts): The codes to 
 enter in the section depend on the age of the panel. Start by entering 1, If you hear 3 beeps proceed to #4; if 
-not continue with *0**. 
+not continue with \*0**. 
 
 4. *48 Report Format: Enter 77 (this is pre-set and cannot be changed on ADT Panels).
 

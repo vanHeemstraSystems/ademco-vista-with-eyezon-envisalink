@@ -183,7 +183,7 @@ assigned Envisalink4 addresses as needed. If it is a single partition system usi
 address of 18, the programming section is *191. In section *191 enter 10. If the keypad was on Partition 2, 
 you would enter 20.
 
-3. *29 Enable IP/GSM (IP/GSM/LRR support required for your Envisalink4 to transmit alerts): The codes to 
+3. \*29 Enable IP/GSM (IP/GSM/LRR support required for your Envisalink4 to transmit alerts): The codes to 
 enter in the section depend on the age of the panel. Start by entering 1, If you hear 3 beeps proceed to #4; if 
 not continue with \*0**. 
 
